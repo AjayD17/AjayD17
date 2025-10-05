@@ -103,6 +103,38 @@ I love transforming ideas into interactive, user-friendly web solutions using mo
 
 ---
 
+## 💼 Internships
+
+### 🏢 SkillCraft Technologies
+- **Role:** Web Development Intern  
+- **Description:** Learned and implemented frontend projects including responsive design, stopwatch, and to-do list applications.  
+
+---
+
+### 🏢 VDart
+- **Role:** Fullstack Development Intern  
+- **Description:** Worked on full-stack web applications using **HTML, CSS, JS, Python, Django, ReactJS, NodeJS**.  
+
+---
+
+### 🏢 Octanet Services Pvt Ltd
+- **Role:** Web Development Intern  
+- **Description:** Developed and deployed dynamic webpages using **HTML, CSS, JS, and Bootstrap**.   
+
+---
+
+### 🏢 Cognifyz Technologies
+- **Role:** Frontend Development Intern  
+- **Description:** Built responsive web components, forms, and UI enhancements using **HTML, CSS, Bootstrap, and JS**.  
+
+---
+
+### 🏢 Octanet Services Pvt Ltd
+- **Role:** Fullstack Development Training  
+- **Description:** Hands-on training for **ReactJS, Django, and NodeJS-based projects**. 
+
+---
+
 ## 📊 GitHub Analytics
 
 ![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjayD17&show_icons=true&theme=tokyonight)
@@ -115,7 +147,7 @@ I love transforming ideas into interactive, user-friendly web solutions using mo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ajayd1712/)
 - 💻 [GitHub](https://github.com/AjayD17)
-- 🌐 [Portfolio]([https://ajayd17.github.io/](https://ajayd17.github.io/Portfolio/))
+- 🌐 [Portfolio](https://ajayd17.github.io/)
 - ✉️ Email: *ajayofficial1712@gmail.com*
 
 ---
