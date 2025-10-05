@@ -45,11 +45,49 @@ I love transforming ideas into interactive, user-friendly web solutions using mo
 
 ## 🚀 Main Projects
 
-| Project | Description | Tech Stack | Live Demo |
-|----------|--------------|-------------|------------|
-| 🧬 **Biological Data Management & Visualization System (BDMVS)** | Django-based bioinformatics tool integrating Biopython modules for biological data visualization | Django, Python, Biopython, D3.js | [Live Demo](https://bdmvs-project.onrender.com) |
-| 🧾 **Folder Creation App** | A simple Django web app for organizing and managing project folders | Django, Python, HTML, CSS | [Live Demo](https://ajayd17.pythonanywhere.com/) |
-| 🌍 **Bike Club Website** | Responsive website showcasing club details, registration, and events | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/ComponentBasedStyling/) |
+### 🧬 Biological Data Management & Visualization System (BDMVS)
+- **Description:** Django-based bioinformatics tool integrating Biopython modules for biological data visualization.  
+  Features include **protein, genome, nucleotide visualizations**, and **biological search functionality**.  
+- **Tech Stack:** Django, Python, Biopython, D3.js  
+- **Live Demo:** [BDMVS](https://bdmvs-project.onrender.com)
+
+---
+
+### 📊 Dashboard Views
+- **Description:** Interactive dashboard for biological data analytics with categories like Protein, Genome, Nucleotide, Taxonomy, PubChem, and BLAST.  
+  Includes **charts, counts, and Excel file integration** for easy data management.  
+- **Tech Stack:** Django, Python, Excel, D3.js, JavaScript  
+- **Live Demo:** [Dashboard Demo](https://bdmvs-project.onrender.com/dashboard) *(example)*
+
+---
+
+### 🧪 Protein Structure Visualization
+- **Description:** Visualize protein structures and molecular interactions using **3D and 2D views** integrated with Django.  
+  Supports interactive exploration of protein molecules.  
+- **Tech Stack:** Django, Python, Biopython, D3.js, OpenCV  
+- **Live Demo:** [Protein Structure](https://bdmvs-project.onrender.com/protein) *(example)*
+
+---
+
+### 🔎 Biological Search
+- **Description:** Powerful search functionality across **protein, genome, nucleotide, taxonomy, BLAST, and chemical compounds**.  
+  Displays structured results and integrates **analytics counts** for each category.  
+- **Tech Stack:** Django, Python, Biopython, JavaScript, D3.js  
+- **Live Demo:** [Biological Search](https://bdmvs-project.onrender.com/search) *(example)*
+
+---
+
+### 🧾 Folder Creation App
+- **Description:** A simple Django web app for organizing and managing project folders.  
+- **Tech Stack:** Django, Python, HTML, CSS  
+- **Live Demo:** [Folder Creation](https://ajayd17.pythonanywhere.com/) *(example)*
+
+---
+
+### 🌍 Bike Club Website
+- **Description:** Responsive website showcasing club details, registration, and events.  
+- **Tech Stack:** HTML, CSS, JS  
+- **Live Demo:** [Bike Club](https://ajayd17.github.io/ComponentBasedStyling/)
 
 ---
 
