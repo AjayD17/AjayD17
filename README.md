@@ -1,16 +1,76 @@
-## Hi there 👋
+# 👋 Hi, I'm Ajay D!
 
-<!--
-**AjayD17/AjayD17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer** | 💻 Passionate about building dynamic and scalable web applications  
+🌱 Always exploring new technologies to create seamless digital experiences  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I’m a dedicated **Full Stack Developer** skilled in both frontend and backend technologies.  
+I love transforming ideas into interactive, user-friendly web solutions using modern frameworks and best coding practices.  
+
+🎯 Currently enhancing my skills in **ReactJS, NodeJS, and Django**  
+💡 Open to collaborating on real-world projects, open-source contributions, and freelance opportunities  
+
+---
+
+## 🧩 Tech Stack
+
+### 🌐 Frontend Development
+- HTML5, CSS3, JavaScript (ES6+)
+- Bootstrap, ReactJS
+- Responsive Web Design (RWD)
+
+### ⚙️ Backend Development
+- Python (Django, Flask)
+- Node.js, Express.js
+- RESTful API Development
+
+### 🗃️ Database & Data Handling
+- MongoDB, MySQL
+- CRUD Operations
+- Data Modeling & Query Optimization
+
+### 💻 Programming Fundamentals
+- Core Java
+- Data Structures & Algorithms (DSA)
+- Problem Solving & Logic Building
+
+### 🛠️ Tools & Platforms
+- Git | GitHub | VS Code | Postman
+- npm | Django Admin | MongoDB Compass
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Live Demo |
+|----------|--------------|-------------|------------|
+| 🧬 **Biological Data Management & Visualization System (BDMVS)** | Django-based bioinformatics tool integrating Biopython modules for biological data visualization | Django, Python, Biopython, D3.js | — |
+| ✅ **To-Do List App** | Task manager with add/delete/edit features | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/todolist/) |
+| ⏱️ **Stopwatch App** | Simple and responsive stopwatch | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/stopwatch/) |
+| 🌐 **Landing Page** | Modern landing page with responsive layout | HTML, CSS, Bootstrap | [Live Demo](https://ajayd17.github.io/landingpage/) |
+| 🧩 **Form Validation** | Form with JS-based validation and user feedback | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/formvalidation/) |
+
+---
+
+## 📊 GitHub Analytics
+
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=AjayD17&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayD17&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ajayd17)
+- 💻 [GitHub](https://github.com/AjayD17)
+- 🌐 [Portfolio (GitHub Pages)](https://ajayd17.github.io/)
+- ✉️ Email: *ajayd17@gmail.com* (example)
+
+---
+
+⭐ *"Code. Learn. Build. Repeat."*  
+💬 *“Every small step in coding brings you closer to innovation!”*
