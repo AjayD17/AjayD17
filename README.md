@@ -57,7 +57,7 @@ I love transforming ideas into interactive, user-friendly web solutions using mo
 - **Description:** Interactive dashboard for biological data analytics with categories like Protein, Genome, Nucleotide, Taxonomy, PubChem, and BLAST.  
   Includes **charts, counts, and Excel file integration** for easy data management.  
 - **Tech Stack:** Django, Python, Excel, D3.js, JavaScript  
-- **Live Demo:** [Dashboard Demo](https://bdmvs-project.onrender.com/dashboard) *(example)*
+- **Live Demo:** [Dashboard Demo](https://dashboard-views.onrender.com) 
 
 ---
 
@@ -65,7 +65,7 @@ I love transforming ideas into interactive, user-friendly web solutions using mo
 - **Description:** Visualize protein structures and molecular interactions using **3D and 2D views** integrated with Django.  
   Supports interactive exploration of protein molecules.  
 - **Tech Stack:** Django, Python, Biopython, D3.js, OpenCV  
-- **Live Demo:** [Protein Structure](https://bdmvs-project.onrender.com/protein) *(example)*
+- **Live Demo:** [Protein Structure](https://protein-structure-ed6l.onrender.com/) 
 
 ---
 
@@ -73,14 +73,14 @@ I love transforming ideas into interactive, user-friendly web solutions using mo
 - **Description:** Powerful search functionality across **protein, genome, nucleotide, taxonomy, BLAST, and chemical compounds**.  
   Displays structured results and integrates **analytics counts** for each category.  
 - **Tech Stack:** Django, Python, Biopython, JavaScript, D3.js  
-- **Live Demo:** [Biological Search](https://bdmvs-project.onrender.com/search) *(example)*
+- **Live Demo:** [Biological Search](https://biological-search.onrender.com) 
 
 ---
 
 ### 🧾 Folder Creation App
 - **Description:** A simple Django web app for organizing and managing project folders.  
 - **Tech Stack:** Django, Python, HTML, CSS  
-- **Live Demo:** [Folder Creation](https://ajayd17.pythonanywhere.com/) *(example)*
+- **Live Demo:** [Folder Creation](https://folder-project.onrender.com) 
 
 ---
 
@@ -95,11 +95,11 @@ I love transforming ideas into interactive, user-friendly web solutions using mo
 
 | Project | Description | Tech Stack | Live Demo |
 |----------|--------------|-------------|------------|
-| ✅ **To-Do List App** | Add, delete, and edit tasks easily | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/todolist/) |
-| ⏱️ **Stopwatch App** | Simple stopwatch with start, stop, and reset functionality | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/stopwatch/) |
-| 🎮 **Tic Tac Toe App** | Fun 2-player game built using JS logic | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/tictactoe/) |
-| 🌐 **Landing Page** | Modern, responsive landing page design | HTML, CSS, Bootstrap | [Live Demo](https://ajayd17.github.io/landingpage/) |
-| 🧩 **Form Validation** | Form with JS-based validation and user feedback | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/formvalidation/) |
+| ✅ **To-Do List App** | Add, delete, and edit tasks easily | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/SCT_WD_4/) |
+| ⏱️ **Stopwatch App** | Simple stopwatch with start, stop, and reset functionality | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/SCT_WD_2/) |
+| 🎮 **Tic Tac Toe App** | Fun 2-player game built using JS logic | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/SCT_WD_3/) |
+| 🌐 **Landing Page** | Modern, responsive landing page design | HTML, CSS, Bootstrap | [Live Demo](https://ajayd17.github.io/SCT_WD_1.github.io/) |
+| 🧩 **Form Validation** | Form with JS-based validation and user feedback | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/Form-Validation/) |
 
 ---
 
@@ -115,7 +115,7 @@ I love transforming ideas into interactive, user-friendly web solutions using mo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ajayd1712/)
 - 💻 [GitHub](https://github.com/AjayD17)
-- 🌐 [Portfolio](https://ajayd17.github.io/)
+- 🌐 [Portfolio]([https://ajayd17.github.io/](https://ajayd17.github.io/Portfolio/))
 - ✉️ Email: *ajayofficial1712@gmail.com*
 
 ---
