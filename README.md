@@ -1,14 +1,10 @@
 # 👋 Hi, I'm Ajay D!
 
-# 👋 Hi, I'm Ajay D!
-
 🚀 **Full Stack Developer** | 💻 Passionate about building dynamic and scalable web applications  
 🌱 Always exploring new technologies to create seamless digital experiences  
 👨‍🏫 **Programming Educator:** I also teach programming languages and web development concepts to help others learn effectively  
 
-💬 **We are doing student projects, then personal portfolios. If anyone is interested, please contact: 8825671539**
-
----
+📌 We are doing student projects, client projects, then personal portfolios, etc. If anyone wants, please contact: 8825671539
 
 ---
 
