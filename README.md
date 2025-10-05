@@ -119,9 +119,6 @@ I love transforming ideas into interactive, user-friendly web solutions using mo
 - **Role:** Fullstack Development Intern  
 - **Description:** Worked on full-stack web applications using **HTML, CSS, JS, Python, Django, ReactJS, NodeJS**.  
 
-- **Role:** Fullstack Development Training  
-- **Description:** Completed structured full-stack development program covering **frontend, backend, and database integration**.
-
 ---
 
 ### 🏢 Octanet Services Pvt Ltd
