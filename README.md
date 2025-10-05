@@ -47,11 +47,13 @@ I love transforming ideas into interactive, user-friendly web solutions using mo
 
 | Project | Description | Tech Stack | Live Demo |
 |----------|--------------|-------------|------------|
-| 🧬 **Biological Data Management & Visualization System (BDMVS)** | Django-based bioinformatics tool integrating Biopython modules for biological data visualization | Django, Python, Biopython, D3.js | — |
+| 🧬 **Biological Data Management & Visualization System (BDMVS)** | Django-based bioinformatics tool integrating Biopython modules for biological data visualization | Django, Python, Biopython, D3.js | [Live Demo](https://bdmvs-project.onrender.com) |
+| ✅ **Folder Creation App** | Task manager with add/delete/edit features | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/todolist/) |
 | ✅ **To-Do List App** | Task manager with add/delete/edit features | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/todolist/) |
 | ⏱️ **Stopwatch App** | Simple and responsive stopwatch | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/stopwatch/) |
+| ✅ **Tic Tac Toe App** | Task manager with add/delete/edit features | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/todolist/) |
 | 🌐 **Landing Page** | Modern landing page with responsive layout | HTML, CSS, Bootstrap | [Live Demo](https://ajayd17.github.io/landingpage/) |
-| 🧩 **Form Validation** | Form with JS-based validation and user feedback | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/formvalidation/) |
+| 🧩 **Bike club website** | Form with JS-based validation and user feedback | HTML, CSS, JS | [Live Demo](https://ajayd17.github.io/ComponentBasedStyling/) |
 
 ---
 
@@ -65,10 +67,10 @@ I love transforming ideas into interactive, user-friendly web solutions using mo
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/ajayd17)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/ajayd17](https://www.linkedin.com/in/ajayd1712/))
 - 💻 [GitHub](https://github.com/AjayD17)
 - 🌐 [Portfolio (GitHub Pages)](https://ajayd17.github.io/)
-- ✉️ Email: *ajayd17@gmail.com* (example)
+- ✉️ Email: *ajayofficial1712@gmail.com* 
 
 ---
 
