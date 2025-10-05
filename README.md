@@ -115,7 +115,7 @@ I love transforming ideas into interactive, user-friendly web solutions using mo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ajayd1712/)
 - 💻 [GitHub](https://github.com/AjayD17)
-- 🌐 [Portfolio (GitHub Pages)](https://ajayd17.github.io/)
+- 🌐 [Portfolio](https://ajayd17.github.io/)
 - ✉️ Email: *ajayofficial1712@gmail.com*
 
 ---
