@@ -4,7 +4,8 @@
 🌱 Always exploring new technologies to create seamless digital experiences  
 👨‍🏫 **Programming Educator:** I also teach programming languages and web development concepts to help others learn effectively  
 
-📌 We are doing student projects, client projects, then personal portfolios, etc. If anyone wants, please contact: 8825671539
+💬 We are doing student projects, client projects, personal portfolios, and technical-oriented counselling.  
+If anyone is interested, please contact: 8825671539
 
 ---
 
