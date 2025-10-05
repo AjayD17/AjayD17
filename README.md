@@ -2,6 +2,7 @@
 
 🚀 **Full Stack Developer** | 💻 Passionate about building dynamic and scalable web applications  
 🌱 Always exploring new technologies to create seamless digital experiences  
+👨‍🏫 **Programming Educator:** I also teach programming languages and web development concepts to help others learn effectively  
 
 ---
 
@@ -11,7 +12,7 @@ I’m a dedicated **Full Stack Developer** skilled in both frontend and backend 
 I love transforming ideas into interactive, user-friendly web solutions using modern frameworks and best coding practices.  
 
 🎯 Currently enhancing my skills in **ReactJS, NodeJS, and Django**  
-💡 Open to collaborating on real-world projects, open-source contributions, and freelance opportunities  
+💡 Open to collaborating on real-world projects, open-source contributions, freelance opportunities, and mentoring learners in programming  
 
 ---
 
@@ -103,7 +104,7 @@ I love transforming ideas into interactive, user-friendly web solutions using mo
 
 ---
 
-## 💼 Internships
+## 💼 Internships & Training
 
 ### 🏢 SkillCraft Technologies
 - **Role:** Web Development Intern  
@@ -115,11 +116,14 @@ I love transforming ideas into interactive, user-friendly web solutions using mo
 - **Role:** Fullstack Development Intern  
 - **Description:** Worked on full-stack web applications using **HTML, CSS, JS, Python, Django, ReactJS, NodeJS**.  
 
+- **Role:** Fullstack Development Training  
+- **Description:** Completed structured full-stack development program covering **frontend, backend, and database integration**.
+
 ---
 
 ### 🏢 Octanet Services Pvt Ltd
 - **Role:** Web Development Intern  
-- **Description:** Developed and deployed dynamic webpages using **HTML, CSS, JS, and Bootstrap**.   
+- **Description:** Developed and deployed dynamic webpages using **HTML, CSS, JS, and Bootstrap**.  
 
 ---
 
@@ -147,7 +151,7 @@ I love transforming ideas into interactive, user-friendly web solutions using mo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ajayd1712/)
 - 💻 [GitHub](https://github.com/AjayD17)
-- 🌐 [Portfolio](https://ajayd17.github.io/)
+- 🌐 [Portfolio](https://ajayd17.github.io/Portfolio/)
 - ✉️ Email: *ajayofficial1712@gmail.com*
 
 ---
